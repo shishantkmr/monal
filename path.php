@@ -1,0 +1,1 @@
+<?php  define('APP',dirname( __File__).'/../'); echo "this is path"; ?>
